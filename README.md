@@ -1,2 +1,2 @@
-* [How to contribute](docs/logmonitoring.md)
+* [Log Monitoring Documenation](docs/logmonitoring.md)
 
