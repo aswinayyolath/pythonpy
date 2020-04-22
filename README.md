@@ -16,4 +16,7 @@ Refer https://github.com/pypa/virtualenv
 
 ## Install python dependencies
 - gcsfs==0.6.1
-
+- pandas==0.25.3
+- google-cloud-bigquery==1.24.0
+- oauth2client==4.1.3
+- dask==2.14.0
